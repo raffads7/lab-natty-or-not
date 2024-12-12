@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Olá pessoal, Bem vindos ao meu primeiro projeto, e nesse projeto eu utilizei o poder das IA's generativas para fazer um vídeo conscientizando a população sobre o meio ambiente
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Conscientização sobre o meio ambiente
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei algumas tecnologias para me ajudarem a fazer um vídeo visando conscientizar as pessoas sobre o meio ambiente
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat-GPT(roteiro); D-ID(personagem do vídeo); Filmora(editor de vídeo)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o chat gpt para criar um roteiro e logo após isso, pus esse roteiro no prompt do D-ID para que o personagem falasse, então juntei tudo no Filmora e com um pouco de edição a mágica se fez
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+https://mega.nz/file/Hy4XmZDL#qVKAHyn2zv3ZIlC8gyHTkY4RxVgshL57Ydrz6fYmogA
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
